@@ -1220,7 +1220,7 @@ void origin(int N)
 }
 
 //int getPrime(int N, int* primeCount, int* b, int* gps, int* prime) {
-int getPrime(int N) {
+void getPrime(int N) {
     int count;
 	int i;
     count = 2;
